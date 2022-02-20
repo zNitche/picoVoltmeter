@@ -21,3 +21,6 @@ RPi Pico powered battery level monitoring system
 Voltage range can be specified by changing values of resistors in voltage divider,
 currently it's 0V - 36V (since we can't exceed 3.3V on ADC pin), so we maintain 1 to 11 ratio
 (1V on ADC pin = 11V of source voltage).  For LEDs and battery levels thresholds see `consts.py`
+
+### Media
+![breadboard](media/pico_voltmeter_board.jpg)
