@@ -15,7 +15,7 @@ Experiments with Raspberry Pi Pico ADC voltmeter
 | 330 Ω resistor                 |    1     |
 | LM4040 voltage reference diode |    1     |
 | 3.3V Zener diode               |    1     |
-| 1uF ceramic capacitor          |    2     |
+| 10uF ceramic capacitor         |    2     |
 
 ### Experiments
 Series of experiments performed measuring 12V input voltage in order to find the best method to reduce ADC noise.
